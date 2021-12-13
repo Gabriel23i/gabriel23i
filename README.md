@@ -6,7 +6,7 @@
  
 <br>
 
-- 😄 Pronomes: Ele/Dele
+- 😄 Pronomes: Ele/He
 - 🌱 Atualmente estou desenvolvendo Mobile/Android
 - 🤝 Estou procurando colaborar em Projetos Mobile
 - 📫 Como entrar em contato comigo: ogabrielmb@gmail.com
