@@ -1,7 +1,7 @@
 <div>
   <a href"https://github.com/gabriel23i">
   <img id="icon-detail-preview" width="25" src = "https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif">
-  <font size="7"> OLÁ! ME CHAMO GABRIEL SANTOS </font>  
+  <font size="7"> Olá! Me chamo Gabriel Santos </font>  
 </div>
  
 <br>
