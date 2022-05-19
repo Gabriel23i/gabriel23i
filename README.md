@@ -3,13 +3,13 @@
   <img id="icon-detail-preview" width="25" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif">
   <font size="7"> Opa! Me chamo Gabriel Santos. </font>  
 </div>          
-          
+         
 <br>
   
   <ul>
     <li type="disc">😄 Pronomes: Ele/He.</li>
     <li type="disc">🌱 Atualmente estou desenvolvendo Front-End / JavaScript && React.Js</li>
-    <li type="disc">📫 Para entrar em contato clique: <a href="https://www.linkedin.com/in/gabriel-santos-23352a20a/"><img id="icon-detail-preview"  width="20" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a></li>
+    <li type="disc">📫 Para entrar em contato: <a href="https://www.linkedin.com/in/gabriel-santos-23352a20a/"> Clique Aqui <img id="icon-detail-preview"  width="20" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a></li>
     <li>⚡ Fato engraçado: " A vaca não dá leite " - Cortella.</li>
   </ul>
   
