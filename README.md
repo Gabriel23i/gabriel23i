@@ -1,72 +1,72 @@
 <div>
   <a href"https://github.com/gabriel23i">
-
-  <p style="font-size:>
-    <img id="icon-detail-preview" width="25" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif">
-    Opa! Me chamo Gabriel Santos.
-    </p>  
+  
+  <h1>
+     Hi!
+    <img id="icon-detail-preview" width="65" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif">
+    I'm Gabriel Santos
+  </h1>
 </div>          
 
-<br>
-  
-  <ul>
-    <li type="disc"> 🌱 Atualmente estou desenvolvendo:
-      Front-End
-    </li>
-    <li type="disc"> 📫 Para entrar em contato:
-      <a href="https://www.linkedin.com/in/gabriel-santos-23352a20a/" target="_blank"> 
-        Clique Aqui
-        <img id="icon-detail-preview"  width="20" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
-      </a>
-    </li>
-    <li> ⚡ Fato engraçado: 
-      "A vaca não dá leite" - Cortella.
-    </li>
-  </ul>
-  
-##
+- 🔥 Junior Web Developer 
 
-<div align = "center">
-  <img src = "https://icongr.am/devicon/javascript-original.svg?size=50&color=0f0f0f">
-  <img id="icon-detail-preview" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<!--   <img id="icon-detail-preview" width="50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"> -->
-  
-  <img id="icon-detail-preview" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  
-  <img src = "https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor">
-  <img src = "https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor">
-  
-<!--   <img id="icon-detail-preview" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"> -->
-  
-<!--   <img id="icon-detail-preview" width="50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"> -->
-  
-  <img id="icon-detail-preview" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  
-  <img id="icon-detail-preview" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  
-<!--   <img id="icon-detail-preview" width="50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg?"> -->
+- 🔭 I’m currently working at [Dasa](https://dasa.com.br/)
+
+- 💬 Ask me about **JavaScript, React, HTML, CSS**
+
+- ⚡ Fun Fact: "The cow doesn't give milk" - Cortella
+ 
+<br><br>
+
+## 🛠 &nbsp;My Tech Stack
+
+<div align = "left">
+
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+  ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+  ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+
 </div>
 
-  ##
-  
-<div align = "center">
-<a href="https://github.com/gabriel23i">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel23i&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel23i&layout=compact&langs_count=16&theme=blue-green">
-</div>
-  
-  ##
-  
-<div align = "center">
-  
-<!--  <a href"mailto:ogabrielmb@gmail.com" target="_blank"> <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href"https://www.linkedin.com/in/gabriel-santos-23352a20a/" target="_blank"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href"https://discord.com/channels/@GabrielSS#1784" target="_blank"> <img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"  target="_blank"></a>
- <a href"https://t.me/@Ogabrielmb" target="_blank"> <img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"  target="_blank"></a> -->
+<br><br>
 
-![Snake animation](https://github.com/Gabriel23i/Gabriel23i/blob/output/github-contribution-grid-snake.svg)
+## ⚙️ &nbsp;The GitHub Analytics
+
+<div align = "left">
+  
+  <a href="https://github.com/gabriel23i">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel23i&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel23i&layout=compact&langs_count=16&theme=blue-green">
+
+</div>
+
+<br><br>
+
+## 🐍 &nbsp;Snake Eats Commit
+
+<div align = "left">
+  
+  ![Snake animation](https://github.com/Gabriel23i/Gabriel23i/blob/output/github-contribution-grid-snake.svg)&nbsp;
 
 </div>   
 
+<br><br>
 
-    
+## 👨🏾‍🦱 &nbsp;Social Network Links
+<div align = "left">
+
+  <a href="encurtador.com.br/opCUY" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-Gabriel%20Santos-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  </a>
+  <a href="#" target="_blank">
+   <img align="center" src="https://img.shields.io/badge/-GabrielDev-05122A?style=flat&logo=instagram" alt="instagram"/>
+  </a>
+  
+</div>
