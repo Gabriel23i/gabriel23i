@@ -63,7 +63,7 @@
 ## 👨🏾‍🦱 &nbsp;To contact me
 <div align = "left">
 
-  <a href="encurtador.com.br/opCUY" target="_blank">
+  <a href="https://www.linkedin.com/in/gabriel-santos-23352a20a/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/>
   </a> &nbsp;
   <a href="mailto:ogabrielmb@gmail.com" target="_blank">
