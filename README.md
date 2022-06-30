@@ -27,6 +27,7 @@
   ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
   ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+  ![Styled Components](https://img.shields.io/badge/-Styled%20Components-05122A?style=flat&logo=styledcomponents)&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
@@ -59,14 +60,17 @@
 
 <br><br>
 
-## 👨🏾‍🦱 &nbsp;Social Network Links
+## 👨🏾‍🦱 &nbsp;To contact me
 <div align = "left">
 
   <a href="encurtador.com.br/opCUY" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Gabriel%20Santos-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-  </a>
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/>
+  </a> &nbsp;
+  <a href="mailto:ogabrielmb@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/email-open.png" alt="Email"/>
+  </a> &nbsp;
   <a href="#" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/-GabrielDev-05122A?style=flat&logo=instagram" alt="instagram"/>
+    <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram"/> 
   </a>
   
 </div>
