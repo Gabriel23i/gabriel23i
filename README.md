@@ -58,7 +58,7 @@
 
 </div>   
 
-<br><br>
+<br>
 
 ## 👨🏾‍🦱 &nbsp;To contact me
 <div align = "left">
