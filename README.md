@@ -2,9 +2,9 @@
   <a href"https://github.com/gabriel23i">
   
   <h1>
-     Hi!
-    <img id="icon-detail-preview" width="65" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif">
-    I'm Gabriel Santos
+  <!-- <img id="icon-detail-preview" width="65" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif"> -->
+  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" alt="">
+    My name is Gabriel, i'm a brazilian developer!
   </h1>
 </div>          
 
