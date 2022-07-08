@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working at [Dasa](https://dasa.com.br/)
 
-- 💬 Ask me about **JavaScript, React, HTML, CSS**
+- 💬 Ask me about **JavaScript, HTML, CSS**
 
 - ⚡ Fun Fact: "The cow doesn't give milk" - Cortella
  
@@ -70,7 +70,7 @@
   <a href="mailto:ogabrielmb@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/email-open.png" alt="Email"/>
   </a> &nbsp;
-  <a href="#" target="_blank">
+  <a href="https://www.instagram.com/gabrieldevx/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram"/> 
   </a>
   
