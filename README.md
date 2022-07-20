@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working at [Dasa](https://dasa.com.br/)
 
-- 💬 Ask me about **JavaScript, HTML, CSS**
+- 💬 Ask me about **JavaScript, React, HTML, CSS**
 
 - ⚡ Fun Fact: "The cow doesn't give milk" - Cortella
  
