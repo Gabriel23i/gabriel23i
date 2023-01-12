@@ -8,7 +8,7 @@
   </h1>
 </div>          
 
-- 🔥 Junior Web Developer 
+- 🔥 Web Developer 
 
 - 🔭 I’m currently working at [Dasa](https://dasa.com.br/)
 
