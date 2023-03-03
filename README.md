@@ -10,7 +10,7 @@
 
 - 🔥 Web Developer 
 
-- 💬 Ask me about **JavaScript, React, HTML, CSS**
+- 💬 Ask me about **JavaScript, TypeScript, React, Angular, HTML, CSS**
 
 - ⚡ Fun Fact: "The cow doesn't give milk" - Cortella
  
